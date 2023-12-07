@@ -1,10 +1,10 @@
-Renan Ferrari - Portfólio 👨‍💻
 Olá! Meu nome é Renan Ferrari, um entusiasta de Ciência da Computação e programador back-end Python. Bem-vindo ao meu repositório GitHub, onde compartilho alguns dos projetos interessantes nos quais tenho trabalhado.
 
 Sobre Mim 🚀
 Nome: Renan Ferrari
 Idade: 23 anos
 Curso: Ciência da Computação
+Linguagem Preferida: Python
 
 Como Contribuir 🤝
 Sinta-se à vontade para explorar os projetos, abrir issues, enviar pull requests ou fornecer feedback. Todas as contribuições são bem-vindas!
